@@ -8,8 +8,7 @@ public class HomeTask6_1 {
 
 //        Verification if number has 3 digits
         while (num != 0) {
-            int digitsNum = num;
-            digitsNum /= 10;
+            num /= 10;
             ++i;
         }
 
