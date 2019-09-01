@@ -2,3 +2,4 @@ idea/
 *.iml
 out/
 target/
+../.idea/workspace.xml
