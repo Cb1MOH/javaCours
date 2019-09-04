@@ -6,7 +6,7 @@
 public class HomeTask5 {
     public static void main(String[] args) {
 
-        int theNumber = 1245;
+        int theNumber = 1242;
         int digit4 = theNumber % 10;
         theNumber /= 10;
         int digit3 = theNumber % 10;
