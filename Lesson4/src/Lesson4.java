@@ -1,4 +1,5 @@
-package PACKAGE_NAME;
-
 public class Lesson4 {
+    public static void main(String[] args) {
+        
+    }
 }
