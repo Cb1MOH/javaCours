@@ -3,12 +3,12 @@ import java.util.Random;
 public class HomeTask14 {
     public static void main(String[] args) {
         Random rand = new Random();
+        int random = rand.nextInt(11);
         int minimum = 999;
         int maximum = 0;
-        int random = rand.nextInt(11);
         int array[] = new int[random];
         for (int i = 0; i < array.length; i++) {
-            array[i] = (int) (Math.random() * 10);
+            array[i] = rand.nextInt(21);
             System.out.print(array[i] + "   ");
         }
 
