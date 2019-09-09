@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="152fd4b9-164b-45e1-8bb2-07f73b1adbed" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/helloWorld.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Task3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/helloWorld/Task4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lesson2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task4.java" beforeDir="false" />
-    </list>
+    <list default="true" id="152fd4b9-164b-45e1-8bb2-07f73b1adbed" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +13,7 @@
   </component>
   <component name="ProjectId" id="1Q8SCNSSKGXwnAH3JxnRIacIwJg" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/HomeTask1-4" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -54,7 +45,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
