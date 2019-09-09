@@ -20,12 +20,6 @@ public class HomeTask16 {
             }
         }
         System.out.println("Minimum mark = " + minimum);
-        for (int i = 0; i < array.length; i++) {
-            if (array[i] == minimum) {
-                System.out.println("Index of min mark = " + i);
-                break;
-            }
-        }
 
 // Find maximum mark and index
         System.out.println("");
@@ -35,12 +29,7 @@ public class HomeTask16 {
             }
         }
         System.out.println("Maximum mark = " + maximum);
-        for (int i = 0; i < array.length; i++) {
-            if (array[i] == maximum) {
-                System.out.println("Index of max mark = " + i);
-                break;
-            }
-        }
+
 
         //Calculate sum of elements between min and max values in array
         int sum = 0;
